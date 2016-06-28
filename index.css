@@ -1,25 +1,13 @@
-body { padding-top: 70px; }
-cite{
-	color: #999999;
-	margin-left: 60%;
+.row{
+	margin-top: 15%;
+		text-align: center;
 }
-.ClassName{text-align: center;
-		   margin-top: 100px;}
-.Teacher{text-align: center;}
-.Time{text-align: center;}
-.btn{text-align: center;
-	align-items: center;
-	margin-left: 50%}
-.course{
-	border-style: solid;
-	border-color: hsla(240, 0%, 50%, 0.2);
-	border-width: 2px;
-	border-radius: 15px;
-	margin-right: 5px;
-	margin-top: 5px;
 
+
+
+.featurette{
+	background-color: hsla(240, 0%, 50%, 0.1);
 }
-.allcourse{
-	padding-right: 5%;
-	padding-left: 5%;
+.featurette-heading{
+	margin-top:20%;
 }
